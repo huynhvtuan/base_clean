@@ -1,0 +1,27 @@
+{
+  "app_name": "Grocery Shopping",
+  "processing": "Đang xử lý",
+  "please_enter_your_email_address": "Làm ơn nhập địa chỉ email của bạn",
+  "please_enter_a_valid_email_address": "Làm ơn nhập đúng địa chỉ email",
+  "success_response": "OKE",
+  "forgot_password": "Quên mật khẩu!",
+  "remember_me": "Remember me",
+  "email": "Email",
+  "password": "Password",
+  "re_password": "Re-Password",
+  "please_enter_the_password_for_confirmation": "Mật khẩu không được để trống",
+  "the_input_contents_are_different": "Mật khẩu không khớp",
+  "please_enter_your_password": "Vui lòng nhập mật khẩu",
+  "show_more_text": "Xem thêm",
+  "show_less_text": "Thu gọn",
+  "loading": "Loading",
+  "success": "Success",
+  "accept": "Accept",
+  "retry_again": "Retry again",
+  "please_enter_a_nickname": "Vui lòng nhập tài khoản",
+  "please_enter_the_password_with_at_least_6_characters": "Vui lòng nhập mật khẩu ít nhất 6 ký tự",
+  "please_enter_the_password_with_no_more_than_32_characters": "Vui lòng nhập mật khẩu không quá 32 ký tự",
+  "agree": "Đồng ý",
+  "wrong_email_address_or_password": "Email hoặc mật khẩu chưa chính xác!"
+}
+
